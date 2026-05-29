@@ -4,6 +4,7 @@ This project is about controlling the brightness of LED💡 by the tip of the fi
 
 ⚠ Opencv-Python Version- 4.5.5 (Recommended)
 
+⚠ Mediapipe Version- 0.10.14 (Recommended)
 
 [+] Upload the Arduino Code to the Arduino board first.
 
